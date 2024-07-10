@@ -16,8 +16,7 @@ Collaborative Notes is a real-time collaborative notes application built with Fl
 ## Example Video
 
 Here is a quick demonstration of the app in action:
-
-<video src="https://drive.google.com/file/d/1um2DNtrMLlH_vFrozU5ImOFQt0qpv2Yz/preview" width="300" />
+![Example Video](https://drive.google.com/uc?id=1um2DNtrMLlH_vFrozU5ImOFQt0qpv2Yz)
 
 ## Screens
 
