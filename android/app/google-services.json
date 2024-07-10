@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832456276581",
+    "project_id": "collaborative-notes-app",
+    "storage_bucket": "collaborative-notes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832456276581:android:8daed87f9306dc9490e48c",
+        "android_client_info": {
+          "package_name": "com.example.collaborative_notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3stlMwrsw4BNTJVcQTWkzqFv5RGPV0Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
